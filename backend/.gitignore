@@ -1,0 +1,44 @@
+# Python virtual environment
+venv/
+backend/venv/
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment & package files
+.env
+*.env
+*.egg-info/
+.Python
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Compiled libraries
+*.so
+*.dll
+*.pyd
+
+# Model or data artifacts (optional)
+*.h5
+*.ckpt
+*.pt
+*.onnx
+*.pb
+*.joblib
+
+# OS-specific folders
+.idea/
