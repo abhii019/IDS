@@ -34,7 +34,7 @@ This project implements a powerful Intrusion Detection System (IDS) that leverag
 
 ## 📈 Results
 
-- ✅ Accuracy: ~95%
+- ✅ Accuracy: ~98%
 - 🎯 High precision and recall for majority attack types
 - 🧹 Reduced false positives using feature selection
 
