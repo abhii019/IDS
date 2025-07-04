@@ -45,4 +45,16 @@ This project implements a powerful Intrusion Detection System (IDS) that leverag
 1. Clone the repo:
    ```bash
    git clone https://github.com/abhii019/IDS.git
-   cd IDS
+   cd IDSRun the main script:
+
+2.Create virtual environment:
+python -m venv venv
+venv\Scripts\activate  # for Windows
+
+3.Install dependencies:
+pip install -r requirements.txt
+
+4.Run the main script:
+python main.py
+
+
